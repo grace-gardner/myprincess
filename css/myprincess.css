@@ -1,0 +1,34 @@
+body{
+	background-color: #e7cbcb;
+	margin: 0;
+}
+
+header{
+	background-color: #cc6699;
+	text-align: center;
+}
+
+header h1{
+	color: rgb(237, 196, 216);
+	padding-top: 50px;
+	font-family: 'Brush Script MT', cursive;
+}
+
+header img{
+	border-radius: 210px;
+    width: 300px;
+    border: 20px;
+    padding-bottom: 10px;
+}
+
+main{
+	background-color: #cc6699;
+	text-align: center;
+
+}
+
+footer{
+	background-color: #cc6699;
+	text-align: center;
+
+}
