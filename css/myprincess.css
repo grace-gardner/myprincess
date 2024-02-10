@@ -32,3 +32,11 @@
 	width: 300px;
 	border-radius: 50%;
 }
+
+/*About Section*/
+.about img{
+	width: 140px;
+}
+.about p{
+	text-align: center;
+}
