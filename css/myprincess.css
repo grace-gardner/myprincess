@@ -1,11 +1,9 @@
 /*Navigation*/
-.navigation{
+.Navigation{
 	text-align: center;
 }
+
 
 .navigation li{
 	display: inline-block;
 }
-
-
-
