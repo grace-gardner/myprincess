@@ -37,6 +37,10 @@
 .about img{
 	width: 140px;
 }
-.about p{
+.about{
+	text-align: center;
+	margin-top: 40px;
+}
+.container{
 	text-align: center;
 }
