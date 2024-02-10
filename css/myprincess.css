@@ -22,4 +22,9 @@
 .centered-box{
 	margin-left: auto;
 	margin-right: auto;
+	text-align: center;
+}
+.centered-box img{
+	width: 300px;
+	border-radius: 50%;
 }
