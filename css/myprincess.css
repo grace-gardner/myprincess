@@ -1,15 +1,10 @@
 body{
 
-    background-image: url(butterfly.jpg);
-    background-repeat: no-repeat;
-    background-size: cover;
-    font-family: 
+        background-color: lightslategrey;
+        font-family: 'Protest Riot', sans-serif;
 
-
-
-       
- 
 }
+
 
 header{
 	background-color: ;
@@ -19,10 +14,11 @@ header{
 header h1{
 	color: ;
 	padding-top: 50px;
-	font-family: 'Georgia', cursive;
+	
 }
 
 header img{
+	size: 20px;
 	
 }
 
