@@ -1,34 +1,39 @@
 body{
-	background-color: #e7cbcb;
-	margin: 0;
+
+    background-image: url(butterfly.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-family: 
+
+
+
+       
+ 
 }
 
 header{
-	background-color: #cc6699;
+	background-color: ;
 	text-align: center;
 }
 
 header h1{
-	color: rgb(237, 196, 216);
+	color: ;
 	padding-top: 50px;
 	font-family: 'Brush Script MT', cursive;
 }
 
 header img{
-	border-radius: 210px;
-    width: 300px;
-    border: 20px;
-    padding-bottom: 10px;
+	
 }
 
 main{
-	background-color: #cc6699;
+	background-color: ;
 	text-align: center;
 
 }
 
 footer{
-	background-color: #cc6699;
+	background-color: ;
 	text-align: center;
 	font-size: 25px;
 
