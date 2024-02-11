@@ -51,3 +51,11 @@ body{
 	text-align: center;
 	background: url(../img/butterfly.jpg);
 }
+
+/*Why Us Section*/
+.why-us img{
+	width: 100%;
+}
+.why-us .row{
+	padding: 40px;
+}
