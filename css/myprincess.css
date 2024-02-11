@@ -5,6 +5,7 @@ body{
 /*Navigation*/
 .Navigation{
 	text-align: center;
+	
 }
 
 
@@ -63,4 +64,5 @@ body{
 
 .why-us{
 	background: url(../img/butterfly.jpg);
+	margin-top: 40px;
 }
