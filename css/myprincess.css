@@ -2,6 +2,9 @@ body{
 	background-color: #e6ffff;
 	font-family: 'Protest Riot', sans-serif;
 }
+.div-break{
+	background-color: black;
+}
 
 /*Navigation*/
 .Navigation{
