@@ -27,7 +27,7 @@ body{
 
 /*Intro Section*/
 .colored-background{
-	background: url(../img/butterfly.jpg);
+	background: url(../img/mountainbackground.jpg);
 	background-size: auto;
 	background-size: 100%;
 }
@@ -39,7 +39,7 @@ body{
 }
 .centered-box img{
 	width: 300px;
-	border-radius: 70%;
+    border-radius: 50%;
 }
 
 /*About Section*/
