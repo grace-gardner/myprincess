@@ -1,11 +1,12 @@
 body{
 	background-color: #e6ffff;
+	font-family: 'Protest Riot', sans-serif;
 }
 
 /*Navigation*/
 .Navigation{
 	text-align: center;
-	
+
 }
 
 
@@ -65,4 +66,9 @@ body{
 .why-us{
 	background: url(../img/butterfly.jpg);
 	margin-top: 40px;
+}
+
+/*Footer Section*/
+.footer{
+	text-align: center;
 }
