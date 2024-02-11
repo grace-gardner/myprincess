@@ -19,14 +19,14 @@
 <body>
 	<!--**Navigation Section-->
 	<ul class="navigation" style="text-align: center;">
-		<li>Home</li>
-		<li>About</li>
-		<li>Contact Us</li>
+		<a href="#home"><li>Home</li></a>
+		<a href="#about"><li>About</li></a>
+		<a href="#contact"><li>Contact Us</li></a>
 	</ul>
 	<!--**To display the navigation next to each other instead of a list, style the elements in the css as .navigation li{} and inside the curly bracket, insert display: in-line block; -->
 
 	<!--**Intro section-->
-	<section class="colored-background">
+	<section id="home" class="colored-background">
 		<div class="col-5 centered-box">
 			<h1 style="text-align: center;">I &#128155; Kirsten</h1>
 			<img src="img/Kirstenheader1box.jpg" alt="Photo of Kirsten" style="size: 20px;" />
@@ -37,7 +37,7 @@
 
 	<!--**About Section-->
 	<div >
-	<section class="about">
+	<section id="about" class="about">
 		<h2>About Kirsten</h2>
 			<div class="row">
 				<div class="col-4">
@@ -60,7 +60,7 @@
 </div>
 
 	<!--Why Us-->
-	<section class="why-us centered-box">
+	<section id="why-us" class="why-us centered-box">
 		<h1>Why Us</h1>
 		<div class="row"> <!--Row 1-->
 			<div class="col-7"> <!--Column for Texts-->
@@ -112,7 +112,7 @@
 	
 		
 </main>
-<footer class="footer">
+<footer id="contact" class="footer">
 	<hr>
 	<p>This site is under construction<br> so hold your judgements please &#128513</p>
 </footer>
