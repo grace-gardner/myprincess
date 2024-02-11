@@ -34,7 +34,7 @@ body{
 }
 .centered-box img{
 	width: 300px;
-	border-radius: 50%;
+	border-radius: 70%;
 }
 
 /*About Section*/
@@ -49,7 +49,7 @@ body{
 }
 .container{
 	text-align: center;
-	background: url(../img/butterfly.jpg);
+	background: url(../img/.jpg);
 }
 
 /*Why Us Section*/
@@ -58,4 +58,9 @@ body{
 }
 .why-us .row{
 	padding: 40px;
+}
+
+
+.why-us{
+	background: url(../img/butterfly.jpg);
 }
