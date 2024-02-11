@@ -60,8 +60,26 @@ h2{
 	text-align: center;
 	background: url(../img/.jpg);
 	background-color: #b35900;
-;
+	display: flex;
+
 }
+.main{
+	width: 25vw;
+	height: 100vh;
+	text-align: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+.main:hover{
+	background: rgb(0, 0, 0, 0.1);
+}
+.h3:hover{
+	background: rgb(0, 0, 0, 0.1);
+}
+
+
+
+
 
 
 /*Why Us Section*/
