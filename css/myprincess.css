@@ -1,5 +1,5 @@
 body{
-	background-color: #e6ffff;
+	background-color: #4d4d4d;
 	font-family: 'Protest Riot', sans-serif;
 }
 .div-break{
@@ -10,6 +10,10 @@ body{
 .Navigation{
 	text-align: center;
 
+}
+
+h2{
+	color: lightgoldenrodyellow;
 }
 
 
@@ -55,7 +59,10 @@ body{
 .container{
 	text-align: center;
 	background: url(../img/.jpg);
+	background-color: #b35900;
+;
 }
+
 
 /*Why Us Section*/
 .why-us img{
@@ -67,7 +74,7 @@ body{
 
 
 .why-us{
-	background: url(../img/butterfly.jpg);
+	background: url(../img/mountainbackground.jpg);
 	margin-top: 40px;
 }
 
